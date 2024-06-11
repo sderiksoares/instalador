@@ -6,6 +6,6 @@ sudo apt install -y git && git clone https://github.com/sderiksoares/instalador.
 
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
 ```bash
-cd && cd ./install && sudo ./install_instancia
+cd && cd ./instalador && sudo ./install_instancia
 ```
 
