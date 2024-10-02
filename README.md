@@ -18,3 +18,8 @@ ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR EST
 cd ./instalador  && sudo ./install_primaria
 ```
 
+LINK DO CÓDIGO
+```bash
+https://github.com/sderiksoares/sasscodigo
+```
+
