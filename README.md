@@ -1,3 +1,8 @@
+EXECUTE O COMANDO ABAIXO PARA INSTALAÇÕES ADICIONAIS NECESSÁRIAS:
+```bash
+sudo apt install npm
+```
+
 INICIE ACESSANDO A HOME DO SEU SERVIDOR:
 ```bash
 cd /home
